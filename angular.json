@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "escola"
+  "defaultProject": "escola",
+  "cli": {
+    "analytics": false
+  }
 }
